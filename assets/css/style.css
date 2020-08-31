@@ -1,0 +1,101 @@
+.bodybck{
+	background: url("bck.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	margin: 0;
+	font-family: Montserrat, sans-serif;
+}
+.container{
+	margin-top: 0px !important;
+}
+.navbar{
+	background-color: #FFF !important;
+	
+}
+.navbar-brand{
+	color: #105485 !important;
+}
+.project{
+	font-size: 50px;
+	font-family: Russo One;
+	font-weight: 90px;
+	padding-top: 50px;
+	color: #10215c;
+}
+.gap{
+	padding-top: 40px;
+	float: right;
+	font-size: 25px;
+	color: #10215c;
+}
+
+.shop{
+	float: right;
+	width: 150px;
+	height: 40px;
+	background-color: #0e0f38;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-top: -20px;
+
+}
+.text{
+	margin-top: -15px;
+	color: #FFF
+}
+.sw {
+	width: 300px;
+	height: 450px;
+	background-color: white;
+	margin-top: 30px;
+	border-radius: 25px 25px 25px 25px;
+}
+.middle{
+	text-align: center;
+	color: #81fa66;
+	font-family: 'Lexend Peta', sans-serif;
+}
+
+.cnt{
+	border-radius: 25px;
+	margin-left: 60px;
+	width: 130px;
+	margin-top: 10px;
+
+}
+.card{
+	background: #fff;
+	border-radius: 23px;
+
+}
+.item {
+        height: auto;
+        width: 200px;
+        background-color: white;
+        border-radius: 25px 25px 25px 25px;
+        margin-top: 30px;
+      }
+.cards {
+        justify-content: center;
+        text-align: center;
+        padding-left: 50px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 55px;
+      }
+.top{
+	margin-top: -45px;
+	color: white;
+}
+footer{
+	background-color: #f8f8f8;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	
+}
+.hrd{
+	font-size: 90px;
+	font-family: Russo One;
+	font-weight: 90px;
+}
